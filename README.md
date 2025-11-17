@@ -4,6 +4,7 @@ Website :  https://lighthearted-travesseiro-0f134e.netlify.app/
 # Online Compass site
 
 An online compass web application that utilizes your mobile device's built-in sensors to display direction, heading, and orientation in real-time. This site is designed exclusively for mobile phones and will not function on desktop computers or tablets.
+![output-site](https://github.com/user-attachments/assets/a5b249ef-326a-46db-aa63-8d3c968df3b8)
 
 ## Features
 
